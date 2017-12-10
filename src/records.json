@@ -1,0 +1,14 @@
+[
+    {"Name":"Auto","Category":"Transport"},
+    {"Name":"Zug","Category":"Transport"},
+    {"Name":"Fahrrad","Category":"Transport"},
+    {"Name":"Hubschrauber","Category":"Transport"},
+    {"Name":"Fahrzeug","Category":"Transport"},
+    
+    {"Name":"Ball","Category":"Sport"},
+    {"Name":"Karate","Category":"Sport"},
+    {"Name":"BasketBall","Category":"Sport"},
+    {"Name":"KungFu","Category":"Sport"},
+    {"Name":"Tennis","Category":"Sport"}
+
+]
